@@ -6,10 +6,10 @@
 
 ## Initial Setup
 ```bash
-# Configure username
+# Username settings
 git config --global user.name "Your Name"
 
-# Configure email
+# Email settings
 git config --global user.email "your.email@example.com"
 ```
 
