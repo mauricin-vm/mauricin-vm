@@ -22,3 +22,8 @@ https://app.rocketseat.com.br/certificates/8aae8277-49e4-45cc-a70b-a305edb1a61d
 https://app.rocketseat.com.br/certificates/081bc87f-951c-4030-8678-a73bd3c81ee5
 
 ---
+
+# Desenvolvimento Chatbots
+https://app.rocketseat.com.br/certificates/50ce1b01-e090-406c-917e-1ed2f5693f06
+
+---
