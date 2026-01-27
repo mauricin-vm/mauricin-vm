@@ -27,3 +27,6 @@ https://app.rocketseat.com.br/certificates/081bc87f-951c-4030-8678-a73bd3c81ee5
 https://app.rocketseat.com.br/certificates/50ce1b01-e090-406c-917e-1ed2f5693f06
 
 ---
+
+# Fundamentos do HTML e do CSS
+https://app.rocketseat.com.br/certificates/dfff6ac0-f8d8-413c-bdeb-f15aa3c451c7
