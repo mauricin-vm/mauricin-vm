@@ -35,3 +35,8 @@ https://app.rocketseat.com.br/certificates/dfff6ac0-f8d8-413c-bdeb-f15aa3c451c7
 
 # JavaScript
 https://app.rocketseat.com.br/certificates/f7b49ecc-fd55-4e6d-8509-aa9224bc29f4
+
+---
+
+# Node.js com Containers
+https://app.rocketseat.com.br/certificates/d55dbbf7-7ef2-4358-b4d2-444255e34703
