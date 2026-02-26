@@ -40,3 +40,13 @@ https://app.rocketseat.com.br/certificates/f7b49ecc-fd55-4e6d-8509-aa9224bc29f4
 
 # Node.js com Containers
 https://app.rocketseat.com.br/certificates/d55dbbf7-7ef2-4358-b4d2-444255e34703
+
+---
+
+# Introdução ao React
+https://app.rocketseat.com.br/certificates/2bd4a7ac-3be0-4a8b-a254-405521069c65
+
+---
+
+# Certificado em Full-Stack
+https://app.rocketseat.com.br/certificates/115c3efe-fd10-4670-87db-a3e9accd7ee7
