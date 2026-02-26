@@ -13,6 +13,10 @@
   </a>
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mauricin-vm&color=blue" alt="Profile Views"/>
+</p>
+
 <p align="center"><i>I care about solving real problems — not building tutorial projects.</i></p>
 
 ---
@@ -80,7 +84,7 @@ Embeddings, RAG Pipelines
 
 ---
 
-### Selected Projects
+### Things I've Built
 
 **AI Assistant for Public Services**
 LLM-based assistant for citizen support using embeddings and semantic search.
@@ -90,4 +94,6 @@ Multi-tenant scheduling platform used by real businesses.
 
 **Government Systems**
 Internal tools built for public administration (partially private).
+
+*Some of my work is used daily in public administration environments.*
 
