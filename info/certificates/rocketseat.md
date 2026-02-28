@@ -50,3 +50,8 @@ https://app.rocketseat.com.br/certificates/2bd4a7ac-3be0-4a8b-a254-405521069c65
 
 # Certificado em Full-Stack
 https://app.rocketseat.com.br/certificates/115c3efe-fd10-4670-87db-a3e9accd7ee7
+
+---
+
+# Otimizando LLMs com RAG
+https://app.rocketseat.com.br/certificates/89215e5e-6c4a-4516-a29b-159c48c9d222
