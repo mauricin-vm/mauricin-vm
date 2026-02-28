@@ -55,3 +55,8 @@ https://app.rocketseat.com.br/certificates/115c3efe-fd10-4670-87db-a3e9accd7ee7
 
 # Otimizando LLMs com RAG
 https://app.rocketseat.com.br/certificates/89215e5e-6c4a-4516-a29b-159c48c9d222
+
+---
+
+# Otimizando LLMs com Fine Tuning
+https://app.rocketseat.com.br/certificates/f2b78bc6-0b04-4a89-aa91-dd66139ac53f
