@@ -60,3 +60,28 @@ https://app.rocketseat.com.br/certificates/89215e5e-6c4a-4516-a29b-159c48c9d222
 
 # Otimizando LLMs com Fine Tuning
 https://app.rocketseat.com.br/certificates/f2b78bc6-0b04-4a89-aa91-dd66139ac53f
+
+---
+
+# Mastering ChatGPT
+https://app.rocketseat.com.br/certificates/8fba329c-a3cd-487d-b3ec-2303b8eca321
+
+---
+
+# AI Agents
+https://app.rocketseat.com.br/certificates/29cb6fd2-9d45-4905-bf1e-85359fa882b2
+
+---
+
+# Prompt Engineering
+https://app.rocketseat.com.br/certificates/b4ae5cd4-661a-4b87-9454-ebf0ca070a5d
+
+---
+
+# AI certification for developers
+https://app.rocketseat.com.br/certificates/ae90f2f0-a1ec-45d5-abe0-0338e1aa4b5f
+
+---
+
+# Certified in Artificial Intelligence from scratch - Mastering Generative AI
+https://app.rocketseat.com.br/certificates/106ce5a0-2177-494d-83a9-37504f10641a
